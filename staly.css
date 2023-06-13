@@ -1,0 +1,47 @@
+body{
+    width: 100%;
+    height: 600px;
+margin: 20px;
+background-color: aquamarine;
+
+
+}
+section{
+width: 300px;
+height: 500px;
+background-color: #ffff;
+
+}
+h1{
+    
+
+}
+.wel{
+text-align: center;
+padding-top: 30px;
+font-size: 30px;
+font-family: sans-serif;
+font-weight: bold;
+color: black;
+padding-bottom: 20px;
+}
+.a{
+    display: flexbox;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    justify-items: center;
+    margin-left: 140px;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    background-color: black;
+    color: #ffff;
+    text-align: center;
+
+   
+}
+#mail{
+    border: none;
+    
+}
